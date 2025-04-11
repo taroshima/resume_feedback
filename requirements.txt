@@ -1,0 +1,7 @@
+python-docx 
+streamlit
+pypdf
+streamlit
+python-dotenv
+google-generativeai
+ollama
