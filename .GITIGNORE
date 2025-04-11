@@ -9,6 +9,12 @@ __pycache__/
 dist/
 build/
 
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
 # VS Code and JetBrains
 .vscode/
 .idea/
@@ -16,6 +22,9 @@ build/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Environment Variables / Secrets
+.env
 
 # Model downloads (e.g., from Ollama, Hugging Face)
 *.bin
@@ -31,5 +40,3 @@ Thumbs.db
 
 # Streamlit
 .streamlit/config.toml
-
-.env
