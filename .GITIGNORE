@@ -17,9 +17,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Environment Variables / Secrets
-.env
-
 # Model downloads (e.g., from Ollama, Hugging Face)
 *.bin
 *.pt
